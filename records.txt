@@ -1,0 +1,15 @@
+
+Milan_1610260 exited lab at 2020-06-09 14:30:27.114926
+Milan_1610260 is assigned node 1 at 2020-06-09 14:30:33.199441
+Milan_1610260 is assigned node 1 at 2020-06-09 14:57:55.608041
+Milan_1610260 exited lab at 2020-06-09 14:58:11.952785
+Milan_1610260 is assigned node 1 at 2020-06-09 16:59:30.481826
+Milan_1610260 exited lab at 2020-06-09 17:02:04.258585
+Milan_1610260 is assigned node 1 at 2020-06-10 12:33:11.765052
+Milan_1610260 exited lab at 2020-06-10 12:33:40.330048
+Milan_1610260 is assigned node 1 at 2020-06-10 12:34:50.180153
+Milan_1610260 is assigned node 1 at 2020-06-10 12:58:05.769897
+Milan_1610260 exited lab at 2020-06-10 12:58:18.291066
+Milan_1610260 is assigned node 1 at 2020-06-10 13:00:07.995027
+Milan_1610260 is assigned node 1 at 2020-06-10 13:01:13.526087
+Milan_1610260 is assigned node 1 at 2020-06-10 14:17:32.367965
